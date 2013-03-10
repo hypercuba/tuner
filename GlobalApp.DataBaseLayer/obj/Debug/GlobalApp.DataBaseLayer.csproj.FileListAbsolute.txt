@@ -1,0 +1,16 @@
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\x86\SQLite.Interop.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\GlobalApp.DataBaseLayer.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\GlobalApp.DataBaseLayer.pdb
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\System.Data.SQLite.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\obj\Debug\GlobalApp.DataBaseLayer.csprojResolveAssemblyReference.cache
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\obj\Debug\GlobalApp.DataBaseLayer.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\obj\Debug\GlobalApp.DataBaseLayer.pdb
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\Castle.Core.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\Iesi.Collections.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\NHibernate.ByteCode.Castle.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\NHibernate.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\nunit.framework.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\Castle.Core.xml
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\Iesi.Collections.pdb
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\NHibernate.ByteCode.Castle.xml
+E:\Projects\ASP\GlobalApp\GlobalApp.DataBaseLayer\bin\Debug\nunit.framework.xml

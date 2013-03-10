@@ -1,0 +1,13 @@
+D:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\bin\Debug\GlobalApp.TunerLib.dll
+D:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\bin\Debug\GlobalApp.TunerLib.pdb
+D:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\obj\Debug\GlobalApp.TunerLib.dll
+D:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\obj\Debug\GlobalApp.TunerLib.pdb
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\bin\Debug\GlobalApp.TunerLib.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\bin\Debug\GlobalApp.TunerLib.pdb
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\bin\Debug\NAudio.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\bin\Debug\NAudio.xml
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\obj\Debug\GlobalApp.TunerLib.csprojResolveAssemblyReference.cache
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\obj\Debug\GlobalApp.TunerLib.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\obj\Debug\GlobalApp.TunerLib.pdb
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\bin\Debug\nunit.framework.dll
+E:\Projects\ASP\GlobalApp\GlobalApp.TunerLib\bin\Debug\nunit.framework.xml

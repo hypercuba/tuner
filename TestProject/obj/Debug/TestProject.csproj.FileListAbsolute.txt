@@ -1,0 +1,11 @@
+E:\Projects\ASP\GlobalApp\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+E:\Projects\ASP\GlobalApp\TestProject\bin\Debug\TestProject.dll
+E:\Projects\ASP\GlobalApp\TestProject\bin\Debug\TestProject.pdb
+E:\Projects\ASP\GlobalApp\TestProject\bin\Debug\GlobalApp.TunerLib.dll
+E:\Projects\ASP\GlobalApp\TestProject\bin\Debug\nunit.framework.dll
+E:\Projects\ASP\GlobalApp\TestProject\bin\Debug\NAudio.dll
+E:\Projects\ASP\GlobalApp\TestProject\bin\Debug\GlobalApp.TunerLib.pdb
+E:\Projects\ASP\GlobalApp\TestProject\bin\Debug\nunit.framework.xml
+E:\Projects\ASP\GlobalApp\TestProject\bin\Debug\NAudio.xml
+E:\Projects\ASP\GlobalApp\TestProject\obj\Debug\TestProject.dll
+E:\Projects\ASP\GlobalApp\TestProject\obj\Debug\TestProject.pdb
