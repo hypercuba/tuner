@@ -47,7 +47,9 @@
   <ItemGroup>
     <Compile Include="Classes\Input.cs" />
     <Compile Include="Classes\MaxVolumeEventArgs.cs" />
+    <Compile Include="Classes\FftPitchDetector.cs" />
     <Compile Include="Interfaces\IInput.cs" />
+    <Compile Include="Interfaces\IPitchDetector.cs" />
     <Compile Include="Interfaces\ITune.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
